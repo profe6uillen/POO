@@ -1,0 +1,41 @@
+c:\users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\bin\Debug\Boleta.exe.config
+c:\users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\bin\Debug\Boleta.exe
+c:\users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\bin\Debug\Boleta.pdb
+c:\users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.csprojResolveAssemblyReference.cache
+c:\users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.Form1.resources
+c:\users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.Properties.Resources.resources
+c:\users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.csproj.GenerateResource.Cache
+c:\users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.exe
+c:\users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.pdb
+C:\Users\lui_g\Documents\Visual Studio 2013\Projects\Boleta\Boleta\bin\Debug\Calificaciones.db
+C:\Users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\bin\Debug\System.Data.SQLite.dll
+C:\Users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lui_g\documents\visual studio 2013\Projects\Boleta\Boleta\bin\Debug\System.Data.SQLite.xml
+F:\Boleta\Boleta\bin\Debug\Boleta.exe.config
+F:\Boleta\Boleta\obj\Debug\Boleta.exe
+F:\Boleta\Boleta\obj\Debug\Boleta.pdb
+F:\Boleta\Boleta\bin\Debug\Calificaciones.db
+F:\Boleta\Boleta\bin\Debug\Boleta.exe
+F:\Boleta\Boleta\bin\Debug\Boleta.pdb
+F:\Boleta\Boleta\bin\Debug\System.Data.SQLite.dll
+F:\Boleta\Boleta\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Boleta\Boleta\bin\Debug\System.Data.SQLite.xml
+F:\Boleta\Boleta\obj\Debug\Boleta.csprojResolveAssemblyReference.cache
+F:\Boleta\Boleta\obj\Debug\Boleta.Form1.resources
+F:\Boleta\Boleta\obj\Debug\Boleta.Properties.Resources.resources
+F:\Boleta\Boleta\obj\Debug\Boleta.csproj.GenerateResource.Cache
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\bin\Debug\Boleta.exe.config
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.exe
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.pdb
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\bin\Debug\Calificaciones.db
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\bin\Debug\Boleta.exe
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\bin\Debug\Boleta.pdb
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\bin\Debug\System.Data.SQLite.dll
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\bin\Debug\System.Data.SQLite.xml
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.csprojResolveAssemblyReference.cache
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.Compra.resources
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.Form1.resources
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.login.resources
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.Properties.Resources.resources
+C:\Users\cbtis 202\Documents\Visual Studio 2013\Projects\Boleta\Boleta\obj\Debug\Boleta.csproj.GenerateResource.Cache
